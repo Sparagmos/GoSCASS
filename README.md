@@ -111,7 +111,7 @@ The output is written in Markdown format to the specified output file (default i
 
 **Example Output:**
 
-```markdown
+
 ### [src/utils/helpers.py (Line 42)](src/utils/helpers.py)
 ```python
     40:     def some_function():
@@ -128,7 +128,6 @@ The output is written in Markdown format to the specified output file (default i
 >> 7:             "n3br4sk43030!" + "hngCeNEri8pHXl5Ie6LPSonN"
     8:           );
     9:         // Next context line
-```
 ```
 
 **Explanation:**
