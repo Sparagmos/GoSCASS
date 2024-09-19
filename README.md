@@ -1,4 +1,3 @@
-```markdown
 # Go Static Code Analysis String Search (GoSCASS)
 
 `GoSCASS` is a command-line tool written in Go for performing advanced searches within source code files. It allows you to search for specific words or patterns across multiple files and directories, making it useful for static code analysis, code reviews, or finding instances of specific code patterns.
@@ -179,4 +178,3 @@ This project is licensed under the MIT License.
 
 - Thanks to all contributors and users who have provided feedback and suggestions.
 - Inspired by common static code analysis tools and best practices in code security.
-```
