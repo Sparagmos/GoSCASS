@@ -78,10 +78,6 @@
 - **#nosec**: Comments used to suppress security warnings; these should be reviewed.
 - **@SuppressWarnings**: In Java, may hide important warnings.
 
-# Licensing and Legal
-
-- **LICENSE**: To check for proper license headers.
-- **COPYRIGHT**: Verify correct copyright notices.
 
 # Other Indicators
 
